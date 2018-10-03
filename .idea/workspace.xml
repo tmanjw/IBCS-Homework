@@ -2,202 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b212a342-23a9-4a70-9e24-eb9aef5059b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Programs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/And.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/And.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/And.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/And16.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/And16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/And16.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux4Way.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux4Way.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux4Way.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux8Way.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux8Way.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/DMux8Way.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux16.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux16.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux4Way16.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux4Way16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux4Way16.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux8Way16.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux8Way16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Mux8Way16.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Not.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Not.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Not.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Not16.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Not16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Not16.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or16.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or16.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or8Way.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or8Way.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Or8Way.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Xor.cmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Xor.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/Gates to Build/Xor.tst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/HardwareSimulator.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/HardwareSimulator.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/OS/Array.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/OS/Keyboard.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/OS/Math.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/OS/Memory.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/OS/Output.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/OS/Screen.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/OS/String.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/OS/Sys.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/Hardware Simulator.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/Virtual Machine Emulator.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/classes/CPUEmulatorMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/classes/HackAssemblerMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/classes/HardwareSimulatorMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/classes/TextComparer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/classes/VMEmulatorMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/asmAbout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/asmUsage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/compiler.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/cpuAbout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/cpuUsage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/hwAbout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/hwUsage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/vmAbout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/help/vmUsage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/arrow2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/calculator2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/cancel.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/chip.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/clock2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/equal.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/find.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/hex.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/keyboard.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/ok.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/ok2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/open.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/open2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/opendoc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/redflag.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/save.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/scroll.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/smallcancel.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/smallequal.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/smallminus.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/smallnew.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/smallok.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/smallplus.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/vcrfastforward.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/vcrforward.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/vcrrewind.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/images/vcrstop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/lib/AssemblerGUI.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/lib/Compilers.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/lib/Hack.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/lib/HackGUI.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/lib/Simulators.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/lib/SimulatorsGUI.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/lib/TranslatorsGUI.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/scripts/defaultCPU.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/scripts/defaultHW.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/bin/scripts/defaultVM.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/ALU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/ALU.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/ARegister.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/ARegister.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Add16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Add16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/And.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/And.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/And16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Bit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Bit.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DFF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DFF.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DMux.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DMux.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DMux4Way.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DMux4Way.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DMux8Way.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DMux8Way.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DRegister.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/DRegister.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/FullAdder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/FullAdder.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/HalfAdder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/HalfAdder.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Inc16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Inc16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Keyboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Keyboard.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Mux.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Mux.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Mux16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Mux4Way16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Mux4Way16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Mux8Way16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Mux8Way16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Nand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Nand.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Not.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Not.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Not16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Not16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Or.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Or.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Or16.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Or8Way.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Or8Way.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/PC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/PC.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM16K.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM16K.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM4K.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM4K.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM512.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM512.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM64.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM64.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RAM8.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/ROM32K.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/ROM32K.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Register.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Register.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/RegisterWithGUI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Screen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Screen.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Xor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInChips/Xor.hdl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/Array.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/JackOSClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/Keyboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/Math.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/Memory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/Output.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/Screen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nand2Tetris/builtInVMCode/Sys.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scratch/Warmup Functions 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scratch/Warmup Operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scratch/Warmup Variables and Built in Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 2 - Functions/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 2 - Functions/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -209,53 +19,94 @@
     <session id="576670148">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Comparisons" value="2" />
-          <entry key="py" value="13" />
+          <entry key="py" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="15" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="9358" />
+          <entry key="py" value="13346" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="9358" />
+          <entry key="Python" value="13346" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/Test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="354">
+              <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <marker date="1538055597947" expanded="true" signature="254:255" ph="..." />
-                <marker date="1538055597947" expanded="true" signature="298:511" ph="..." />
+                <marker date="1538099062435" expanded="true" signature="328:333" ph="..." />
+                <marker date="1538099062435" expanded="true" signature="511:516" ph="..." />
+                <marker date="1538099062435" expanded="true" signature="550:555" ph="..." />
+                <marker date="1538099062435" expanded="true" signature="604:609" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+                <marker date="1538533990347" expanded="true" signature="242:246" ph="..." />
+                <marker date="1538533990347" expanded="true" signature="360:367" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/module1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -294,8 +145,12 @@
         <option value="$PROJECT_DIR$/Scratch/Warmup Variables and Built in Functions.py" />
         <option value="$PROJECT_DIR$/Scratch/Functions 2.py" />
         <option value="$PROJECT_DIR$/Scratch/Warmup Functions 2.py" />
-        <option value="$PROJECT_DIR$/Tests/Test.py" />
         <option value="$PROJECT_DIR$/Homewrok 1 - Operation/Functions Homework.py" />
+        <option value="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" />
+        <option value="$PROJECT_DIR$/Homework 2 - Functions/module1.py" />
+        <option value="$PROJECT_DIR$/Homework 2 - Functions/main.py" />
+        <option value="$PROJECT_DIR$/Tests/Test.py" />
+        <option value="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" />
       </list>
     </option>
   </component>
@@ -318,6 +173,16 @@
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 2 - Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 3 - Loops" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
@@ -352,8 +217,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Test">
-    <configuration name="Functions Homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Loops Classwork">
+    <configuration name="Functions 2 HW" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,11 +226,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homewrok 1 - Operation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 2 - Functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jtmwo\Documents\School\CS\Programs\Homewrok 1 - Operation\Functions 1 HW.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quadratic Formula" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Loops Classwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -382,11 +247,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homewrok 1 - Operation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 3 - Loops" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homewrok 1 - Operation/Quadratic Formula.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Realm (T)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Realm (T).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Warmup Functions 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -424,32 +310,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scratch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 2 - Functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch/Warmup Functions 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Warmup Variables and Built in Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Scratch" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch/Warmup Variables and Built in Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 2 - Functions/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,19 +324,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Quadratic Formula" />
-      <item itemvalue="Python.Warmup Variables and Built in Functions" />
-      <item itemvalue="Python.Warmup Functions 2" />
-      <item itemvalue="Python.Functions Homework" />
       <item itemvalue="Python.Test" />
+      <item itemvalue="Python.Functions 2 HW" />
+      <item itemvalue="Python.Realm (T)" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Loops Classwork" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Loops Classwork" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Realm (T)" />
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Functions Homework" />
-        <item itemvalue="Python.Warmup Functions 2" />
-        <item itemvalue="Python.Warmup Variables and Built in Functions" />
-        <item itemvalue="Python.Quadratic Formula" />
+        <item itemvalue="Python.Functions 2 HW" />
       </list>
     </recent_temporary>
   </component>
@@ -492,12 +357,12 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -523,34 +388,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Comparisons" />
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Operations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" column="2" selection-start-line="40" selection-end-line="40" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Comparisons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Quadratic Formula.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="43" column="44" lean-forward="true" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Logic Gates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Operations.py" />
+    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Comparisons.py" />
+    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Quadratic Formula.py" />
+    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Logic Gates.py" />
     <entry file="file://$PROJECT_DIR$/Scratch/Warmup Variables and Built in Functions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -572,24 +413,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Functions 1 HW.py">
+    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Functions 1 HW.py" />
+    <entry file="file://$USER_HOME$/Downloads/Realm (T).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="137" column="10" selection-start-line="137" selection-start-column="10" selection-end-line="137" selection-end-column="10" />
+        <state relative-caret-position="333">
+          <caret line="927" column="12" lean-forward="true" selection-start-line="927" selection-start-column="12" selection-end-line="927" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
-            <element signature="e#61#72#0" expanded="true" />
+            <marker date="1538099062435" expanded="true" signature="328:333" ph="..." />
+            <marker date="1538099062435" expanded="true" signature="511:516" ph="..." />
+            <marker date="1538099062435" expanded="true" signature="550:555" ph="..." />
+            <marker date="1538099062435" expanded="true" signature="604:609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/module1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <marker date="1538533990347" expanded="true" signature="242:246" ph="..." />
+            <marker date="1538533990347" expanded="true" signature="360:367" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/Test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <marker date="1538055597947" expanded="true" signature="254:255" ph="..." />
-            <marker date="1538055597947" expanded="true" signature="298:511" ph="..." />
-          </folding>
+        <state relative-caret-position="354">
+          <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
         </state>
       </provider>
     </entry>
