@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b212a342-23a9-4a70-9e24-eb9aef5059b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 2 - Functions/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 2 - Functions/module1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Conditional_Statements.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,56 +20,59 @@
     <session id="576670148">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Comparisons" value="2" />
-          <entry key="py" value="18" />
+          <entry key="py" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="20" />
+          <entry key="Python" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="13346" />
+          <entry key="py" value="16425" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="13346" />
+          <entry key="Python" value="16425" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/Test.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#26#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,13 +80,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="612">
+              <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               <folding>
-                <marker date="1538099062435" expanded="true" signature="328:333" ph="..." />
-                <marker date="1538099062435" expanded="true" signature="511:516" ph="..." />
-                <marker date="1538099062435" expanded="true" signature="550:555" ph="..." />
-                <marker date="1538099062435" expanded="true" signature="604:609" ph="..." />
+                <marker date="1538549445736" expanded="true" signature="328:333" ph="..." />
+                <marker date="1538549445736" expanded="true" signature="511:516" ph="..." />
+                <marker date="1538549445736" expanded="true" signature="550:555" ph="..." />
+                <marker date="1538549445736" expanded="true" signature="604:609" ph="..." />
               </folding>
             </state>
           </provider>
@@ -91,10 +95,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="17">
+              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
               <folding>
-                <element signature="e#0#22#0" expanded="true" />
                 <marker date="1538533990347" expanded="true" signature="242:246" ph="..." />
                 <marker date="1538533990347" expanded="true" signature="360:367" ph="..." />
               </folding>
@@ -103,10 +106,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/module1.py">
+        <entry file="file://$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="136">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding>
+                <marker date="1539336061414" expanded="true" signature="50:55" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,10 +130,12 @@
     <findStrings>
       <find>stop</find>
       <find>sqrt</find>
+      <find>factorial</find>
     </findStrings>
     <replaceStrings>
       <replace>sleep</replace>
       <replace>math.sqrt</replace>
+      <replace>math.factorial</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -146,11 +154,14 @@
         <option value="$PROJECT_DIR$/Scratch/Functions 2.py" />
         <option value="$PROJECT_DIR$/Scratch/Warmup Functions 2.py" />
         <option value="$PROJECT_DIR$/Homewrok 1 - Operation/Functions Homework.py" />
-        <option value="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" />
         <option value="$PROJECT_DIR$/Homework 2 - Functions/module1.py" />
         <option value="$PROJECT_DIR$/Homework 2 - Functions/main.py" />
-        <option value="$PROJECT_DIR$/Tests/Test.py" />
+        <option value="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" />
         <option value="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" />
+        <option value="$PROJECT_DIR$/asoidlkasd/Loops.py" />
+        <option value="$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py" />
+        <option value="$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py" />
+        <option value="$PROJECT_DIR$/Tests/Test.py" />
       </list>
     </option>
   </component>
@@ -167,6 +178,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,28 +194,24 @@
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework 3 - Loops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Scratch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 3 - Conditional Statements" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Scratch/Warmup Operators.py" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Homework 3 - Conditional Statements" />
+      <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\asoidlkasd" />
+      <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Classwork" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,28 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Loops Classwork">
-    <configuration name="Functions 2 HW" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 2 - Functions" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Test">
     <configuration name="Loops Classwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jtmwo\Documents\School\CS\Programs\asoidlkasd\Loops Classwork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -324,19 +311,18 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.Conditional Statements" />
       <item itemvalue="Python.Test" />
-      <item itemvalue="Python.Functions 2 HW" />
       <item itemvalue="Python.Realm (T)" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.Loops Classwork" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test" />
         <item itemvalue="Python.Loops Classwork" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.Realm (T)" />
-        <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Functions 2 HW" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +354,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297587" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -421,19 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <marker date="1538099062435" expanded="true" signature="328:333" ph="..." />
-            <marker date="1538099062435" expanded="true" signature="511:516" ph="..." />
-            <marker date="1538099062435" expanded="true" signature="550:555" ph="..." />
-            <marker date="1538099062435" expanded="true" signature="604:609" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/module1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -441,27 +414,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Classwork/Loops Classwork.py" />
+    <entry file="file://$PROJECT_DIR$/Classwork/Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
+          <folding>
+            <marker date="1538549445736" expanded="true" signature="328:333" ph="..." />
+            <marker date="1538549445736" expanded="true" signature="511:516" ph="..." />
+            <marker date="1538549445736" expanded="true" signature="550:555" ph="..." />
+            <marker date="1538549445736" expanded="true" signature="604:609" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="17">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
           <folding>
-            <element signature="e#0#22#0" expanded="true" />
             <marker date="1538533990347" expanded="true" signature="242:246" ph="..." />
             <marker date="1538533990347" expanded="true" signature="360:367" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py">
+    <entry file="file://$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="39" column="77" selection-start-line="39" selection-start-column="77" selection-end-line="39" selection-end-column="77" />
+        <state relative-caret-position="136">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1539336061414" expanded="true" signature="50:55" ph="..." />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#26#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Test.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

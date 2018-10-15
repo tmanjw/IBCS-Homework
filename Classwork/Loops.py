@@ -35,7 +35,12 @@ print('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #     print(i) if i%3 != 0 and i%8 !=0 else print("Is divisible by 3 or 8")
 
 #3.
+import math
 height=5
 for i in range(0,height):
     if height / 2 - i == 0 or height / 2 - i == height / 2:
-        print(" "*(int(height/2)-1),"*")
+        print(" "*math.ceil(height/2-1),"*")
+    elif height/2>i:
+        print((" "*math.ceil(height/2-(i+1)))+"*"+(" "))
+    else:
+        print()
