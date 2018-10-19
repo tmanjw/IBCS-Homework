@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b212a342-23a9-4a70-9e24-eb9aef5059b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Conditional_Statements.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Nested_Loops_Pygame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4 - Loops/Basic Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4 - Loops/Nested Loops Pygame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4 - Loops/Nested Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/Perfect Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Others/Pygame Pointers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Others/Validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Others/Validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,98 +23,99 @@
     <session id="576670148">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.7" value="3" />
-          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Comparisons" value="2" />
-          <entry key="py" value="23" />
+          <entry key="py" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="25" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="16425" />
+          <entry key="py" value="26358" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="16425" />
+          <entry key="Python" value="26358" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/Test.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Others/Perfect Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="357">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/Test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 4 - Loops/Nested Loops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
-                <element signature="e#26#37#0" expanded="true" />
+                <element signature="e#14#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
+        <entry file="file://$PROJECT_DIR$/Others/Pygame Pointers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
-              <folding>
-                <marker date="1538549445736" expanded="true" signature="328:333" ph="..." />
-                <marker date="1538549445736" expanded="true" signature="511:516" ph="..." />
-                <marker date="1538549445736" expanded="true" signature="550:555" ph="..." />
-                <marker date="1538549445736" expanded="true" signature="604:609" ph="..." />
-              </folding>
+            <state relative-caret-position="765">
+              <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/main.py">
+        <entry file="file://$PROJECT_DIR$/Homework 4 - Loops/Nested Loops Pygame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+            <state relative-caret-position="68">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
               <folding>
-                <marker date="1538533990347" expanded="true" signature="242:246" ph="..." />
-                <marker date="1538533990347" expanded="true" signature="360:367" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-              <folding>
-                <marker date="1539336061414" expanded="true" signature="50:55" ph="..." />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,14 +165,22 @@
         <option value="$PROJECT_DIR$/asoidlkasd/Loops.py" />
         <option value="$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py" />
         <option value="$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py" />
+        <option value="$PROJECT_DIR$/Others/Validation.py" />
+        <option value="$PROJECT_DIR$/Homework 4 - Loops/Basic Loops.py" />
+        <option value="$PROJECT_DIR$/Others/Pygame Pointers.py" />
+        <option value="$PROJECT_DIR$/Homework 4 - Loops/Nested Loops.py" />
+        <option value="$PROJECT_DIR$/Tests/Test2.py" />
+        <option value="$PROJECT_DIR$/Homework 4 - Loops/Nested Loops Pygame.py" />
         <option value="$PROJECT_DIR$/Tests/Test.py" />
+        <option value="$PROJECT_DIR$/Others/Perfect Number.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="width" value="1750" />
-    <option name="height" value="1030" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1099" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -189,12 +201,37 @@
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Classwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 1 - Operation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
               <item name="Homework 2 - Functions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
               <item name="Homework 3 - Conditional Statements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 4 - Loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,10 +241,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Scratch/Warmup Operators.py" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Homework 4 - Loops" />
       <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Homework 3 - Conditional Statements" />
       <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\asoidlkasd" />
       <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Classwork" />
@@ -226,7 +264,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python.Test">
-    <configuration name="Loops Classwork" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Basic Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 3 - Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 4 - Loops" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jtmwo\Documents\School\CS\Programs\asoidlkasd\Loops Classwork.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 4 - Loops/Basic Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Realm (T)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,11 +293,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 4 - Loops" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Realm (T).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 4 - Loops/Loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nested Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 4 - Loops" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 4 - Loops/Nested Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +348,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,11 +356,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 2 - Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 2 - Functions/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/Test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,17 +371,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.Conditional Statements" />
+      <item itemvalue="Python.Nested Loops Pygame" />
       <item itemvalue="Python.Test" />
-      <item itemvalue="Python.Realm (T)" />
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.Loops Classwork" />
+      <item itemvalue="Python.Loops" />
+      <item itemvalue="Python.Basic Loops" />
+      <item itemvalue="Python.Nested Loops" />
+      <item itemvalue="Python.Test2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Test" />
-        <item itemvalue="Python.Loops Classwork" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.Realm (T)" />
+        <item itemvalue="Python.Test2" />
+        <item itemvalue="Python.Nested Loops" />
+        <item itemvalue="Python.Basic Loops" />
+        <item itemvalue="Python.Loops" />
       </list>
     </recent_temporary>
   </component>
@@ -343,12 +405,12 @@
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28155982" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2546917" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,6 +423,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297587" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -407,31 +488,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/module1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classwork/Loops Classwork.py" />
-    <entry file="file://$PROJECT_DIR$/Classwork/Loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="3" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
-          <folding>
-            <marker date="1538549445736" expanded="true" signature="328:333" ph="..." />
-            <marker date="1538549445736" expanded="true" signature="511:516" ph="..." />
-            <marker date="1538549445736" expanded="true" signature="550:555" ph="..." />
-            <marker date="1538549445736" expanded="true" signature="604:609" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -439,10 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-          <folding>
-            <marker date="1538533990347" expanded="true" signature="242:246" ph="..." />
-            <marker date="1538533990347" expanded="true" signature="360:367" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -450,9 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <marker date="1539336061414" expanded="true" signature="50:55" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -460,14 +514,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/Validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/module1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classwork/Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4 - Loops/Basic Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="73" column="36" selection-start-line="73" selection-start-column="35" selection-end-line="73" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4 - Loops/Nested Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
-            <element signature="e#26#37#0" expanded="true" />
+            <element signature="e#14#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/Pygame Pointers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4 - Loops/Nested Loops Pygame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/Test.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Others/Perfect Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
