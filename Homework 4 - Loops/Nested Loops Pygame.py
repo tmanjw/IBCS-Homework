@@ -5,24 +5,25 @@ import random
 
 #4. My first version
 #
-# screen=pygame.display.set_mode((500,500))
-#
-# running=True
-# while running==True:
-#     for event in pygame.event.get():
-#         if event.type == pygame.QUIT:
-#             running = False
-#
-#     for x in range(0,5):
-#         if x%2==0:
-#             for y in range(0,3):
-#                 pygame.draw.rect(screen, (131, 0, 247), ((100*x,200*y),(100,100)))
-#         else:
-#             for y in range(0,2):
-#                 pygame.draw.rect(screen, (131, 0, 247), ((100*x,200*y+100),(100,100)))
-#
-#     pygame.display.update()
-# pygame.quit()
+screen=pygame.display.set_mode((500,500))
+
+running=True
+while running==True:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+
+    for x in range(0,5):
+        if x%2==0:
+            for y in range(0,3):
+                pygame.draw.rect(screen, (131, 0, 247), ((100*x,200*y),(100,100)))
+        else:
+            for y in range(0,2):
+                pygame.draw.rect(screen, (131, 0, 247), ((100*x,200*y+100),(100,100)))
+    pygame.display.update()
+pygame.quit()
+
+
 
 #4. Piggy style
 # screen = pygame.display.set_mode((500, 500))
@@ -52,7 +53,7 @@ import random
 
 print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
 
-#5.
+# 5.
 # screen=pygame.display.set_mode((500,500))
 #
 # running=True
