@@ -15,7 +15,7 @@ with codecs.open('movies.txt','r',encoding='utf-8') as f:
         for i in range(len(line)):
             if line[i]=="":
                 line[i]="N/A"
-        line = tuple(line)
+        line = list(line)
 
         if count==0:
             movies_attributes+=[line]
@@ -28,7 +28,7 @@ with codecs.open('movies.txt','r',encoding='utf-8') as f:
             else:
                 pass
 
-print(movies_attributes)
+# print(movies_attributes)
 
 with codecs.open('movie.tsv','w',encoding='utf-8') as f:
     for i in movies:

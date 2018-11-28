@@ -2,9 +2,6 @@ import random
 import pickle
 from Parsing import movies
 
-print(movies)
-
-
 with open('byyear.pickle','rb') as f:
     yeardict=pickle.load(f)
 
@@ -17,10 +14,10 @@ with open('byyear.pickle','rb') as f:
 with open('byyear.pickle','rb') as f:
     directordict=pickle.load(f)
     
-print('Year :',yeardict)
-print('Actor :',actordict)
-print('Actress :',actressdict)
-print('Director :',directordict)
+# print('Year :',yeardict)
+# print('Actor :',actordict)
+# print('Actress :',actressdict)
+# print('Director :',directordict)
 
 # Movie Lengths by Year
 totaltotal=0
@@ -37,16 +34,25 @@ for i in yeardict:
     average=total/(len(yeardict[i])-less)
     movielengthbyyear[i]="%.2f"%average
     totaltotal+=total
-    print("Avg Length",i,":","%.2f"%average)
 totalaverage=totaltotal/len(movies)
 movielengthbyyear["Total"]="%.2f"%totalaverage
-
 
 # Number of Movies by Actor
 moviesbyactor={}
 for i in actordict:
-    moviesbyactor+=[len(actordict[i])]
+    moviesbyactor[i]=len(actordict[i])
 
-print(moviesbyactor)
-
-print(sorted(dict))
+# Genre Count Per Decade
+genrecount={}
+for i in movies:
+    try:
+        decade=int(int(i[0])/10)*10
+    except:
+        decade="N/A"
+    if decade not in genrecount:
+        genrecount[decade]=[i[3]]
+    else:
+        if i[3] not in genrecount[decade]:
+            genrecount[decade]+=[i[3]]
+for i in genrecount:
+    genrecount[i]=len(genrecount[i])

@@ -1,7 +1,5 @@
-import random
-import matplotlib.pyplot as plt
+from Parsing import movies
 
-dict={}
-
-if hello in dict:
-    print("cool")
+for i in movies:
+    print(i)
+    print(int(int(i[0])/10)*10)
