@@ -2,18 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b212a342-23a9-4a70-9e24-eb9aef5059b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Classwork/Searching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data Project/Plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Tribbles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Sorting2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Plotting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/Hopetopia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/Tribbles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pseudocode/Psuedocode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USA Olympiad/Mixing Milk/Mixing_Milk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USA Olympiad/Mixing Milk/mixmilk.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USA Olympiad/The Bucket List/The_Bucket_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USA Olympiad/The Bucket List/blist.in" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Project/Analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Project/Parsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Project/Test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data Project/Test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/byacress.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Data Project/byacress.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/byactor.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Data Project/byactor.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/bydirector.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Data Project/bydirector.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/byyear.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Data Project/byyear.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classwork/Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/Sorting1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/Anime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Anime.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/Parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Parsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/Plotting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/Random Text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Random Text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/Test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/Test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/byacress.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/byacress.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/byactor.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/byactor.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/bydirector.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/bydirector.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/byyear.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/byyear.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/movie.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/movie.tsv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data Project/movies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/movies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Test2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,113 +43,82 @@
     <session id="576670148">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="42" />
+          <entry key="project.closed" value="54" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="7" />
-          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.11" value="5" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="6" />
-          <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="43" />
+          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.8" value="11" />
+          <entry key="project.open.time.9" value="9" />
+          <entry key="project.opened" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Comparisons" value="2" />
-          <entry key="py" value="77" />
+          <entry key="in" value="2" />
+          <entry key="meh" value="1" />
+          <entry key="out" value="1" />
+          <entry key="py" value="100" />
           <entry key="tsv" value="1" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="79" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="56" />
-          <entry key="py" value="58435" />
+          <entry key="dummy" value="80" />
+          <entry key="in" value="60" />
+          <entry key="meh" value="1205" />
+          <entry key="py" value="65877" />
           <entry key="txt" value="577" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="633" />
-          <entry key="Python" value="58435" />
+          <entry key="PLAIN_TEXT" value="1922" />
+          <entry key="Python" value="65877" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Project/Test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Project/Test2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Project/Analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data Project/Plotting.py">
+        <entry file="file://$PROJECT_DIR$/Pseudocode/Psuedocode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="534">
+              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Project/movie.tsv">
+        <entry file="file://$PROJECT_DIR$/Tests/Test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+            <state relative-caret-position="69">
+              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data Project/movies.txt">
+        <entry file="file://$PROJECT_DIR$/Tests/Test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            <state relative-caret-position="161">
+              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -147,12 +134,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>stop</find>
-      <find>sqrt</find>
-      <find>factorial</find>
-      <find>emx</find>
-      <find>ilx</find>
-      <find>jrv</find>
       <find>50</find>
       <find>23</find>
       <find>r</find>
@@ -174,7 +155,15 @@
       <find>;;</find>
       <find>sorted</find>
       <find>by_year</find>
+      <find>lst</find>
+      <find>xaxis</find>
+      <find>space_invader</find>
+      <find>count</find>
+      <find>human</find>
+      <find>x</find>
       <find>print</find>
+      <find>step + 1</find>
+      <find>NumbersS</find>
     </findStrings>
     <replaceStrings>
       <replace>sleep</replace>
@@ -189,6 +178,14 @@
       <replace>f</replace>
       <replace>movies</replace>
       <replace>by_actor</replace>
+      <replace>lst1</replace>
+      <replace>xaxis2</replace>
+      <replace>sparkles</replace>
+      <replace>year</replace>
+      <replace>total</replace>
+      <replace>xcoords</replace>
+      <replace>0</replace>
+      <replace>Numbers</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -197,20 +194,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Scratch/Warmup Operators.py" />
-        <option value="$PROJECT_DIR$/Homewrok 1 - Operation/Comparisons" />
-        <option value="$PROJECT_DIR$/Homewrok 1 - Operation/Quadratic Formula.py" />
-        <option value="$PROJECT_DIR$/Homewrok 1 - Operation/Operations.py" />
-        <option value="$PROJECT_DIR$/Homewrok 1 - Operation/Comparisons.py" />
-        <option value="$PROJECT_DIR$/Homewrok 1 - Operation/Logic Gates.py" />
-        <option value="$PROJECT_DIR$/Scratch/Warmup Variables and Built in Functions.py" />
-        <option value="$PROJECT_DIR$/Scratch/Functions 2.py" />
-        <option value="$PROJECT_DIR$/Scratch/Warmup Functions 2.py" />
-        <option value="$PROJECT_DIR$/Homewrok 1 - Operation/Functions Homework.py" />
-        <option value="$PROJECT_DIR$/Homework 2 - Functions/module1.py" />
-        <option value="$PROJECT_DIR$/Homework 2 - Functions/main.py" />
-        <option value="$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py" />
-        <option value="$PROJECT_DIR$/Homework 3 - Loops/Loops Classwork.py" />
         <option value="$PROJECT_DIR$/asoidlkasd/Loops.py" />
         <option value="$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py" />
         <option value="$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py" />
@@ -230,8 +213,6 @@
         <option value="$PROJECT_DIR$/Homework 5 - Pygame/Purplay Run.py" />
         <option value="$PROJECT_DIR$/Homework 5 - Pygame/Piggy Style.py" />
         <option value="$PROJECT_DIR$/Homework 5 - Pygame/Purplay Runner.py" />
-        <option value="$PROJECT_DIR$/Tests/Test2.py" />
-        <option value="$PROJECT_DIR$/Tests/Test1.py" />
         <option value="$PROJECT_DIR$/Data Project/Anime.txt" />
         <option value="$PROJECT_DIR$/Data Project/data.txt" />
         <option value="$PROJECT_DIR$/Data Project/Random Text.py" />
@@ -243,15 +224,31 @@
         <option value="$PROJECT_DIR$/Homework 7 - Sorting/Sorting.py" />
         <option value="$PROJECT_DIR$/Classwork/Searching.py" />
         <option value="$PROJECT_DIR$/Classwork/Sorting.py" />
-        <option value="$PROJECT_DIR$/Data Project/Test1.py" />
-        <option value="$PROJECT_DIR$/Data Project/Analysis.py" />
         <option value="$PROJECT_DIR$/Data Project/Parsing.py" />
         <option value="$PROJECT_DIR$/Data Project/Test2.py" />
+        <option value="$PROJECT_DIR$/Classwork/Sorting2.py" />
+        <option value="$PROJECT_DIR$/Pseudocode.py" />
+        <option value="$PROJECT_DIR$/Data Project/Analysis.py" />
         <option value="$PROJECT_DIR$/Data Project/Plotting.py" />
+        <option value="$PROJECT_DIR$/Data Project/Test1.py" />
+        <option value="$PROJECT_DIR$/Classwork/Tribbles.py" />
+        <option value="$PROJECT_DIR$/Classwork/meh" />
+        <option value="$PROJECT_DIR$/Classwork/Hopetopia.py" />
+        <option value="$PROJECT_DIR$/Homework 8 - Models/Tribbles.py" />
+        <option value="$PROJECT_DIR$/Homework 8 - Models/Hopetopia.py" />
+        <option value="$PROJECT_DIR$/USA Olympiad/Mixing Milk/Mixing Milk.py" />
+        <option value="$PROJECT_DIR$/Tests/Test2.py" />
+        <option value="$PROJECT_DIR$/USA Olympiad/Mixing Milk/mixmilk.in" />
+        <option value="$PROJECT_DIR$/USA Olympiad/The_Bucket_List/The_Bucket_List.py" />
+        <option value="$PROJECT_DIR$/USA Olympiad/Mixing Milk/Mixing_Milk.py" />
+        <option value="$PROJECT_DIR$/USA Olympiad/The Bucket List/blist.in" />
+        <option value="$PROJECT_DIR$/USA Olympiad/The Bucket List/The_Bucket_List.py" />
+        <option value="$PROJECT_DIR$/Tests/Test1.py" />
+        <option value="$PROJECT_DIR$/Pseudocode/Psuedocode.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -265,7 +262,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,41 +277,43 @@
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework 5 - Pygame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework 6 - Lists" type="462c0819:PsiDirectoryNode" />
+              <item name="Pseudocode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="USA Olympiad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="USA Olympiad" type="462c0819:PsiDirectoryNode" />
+              <item name="The Bucket List" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/jtmwo/Documents/School/CS/Programs/Data Project/Test2.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework 5 - Pygame/Purplay Run.py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\USA Olympiad" />
+      <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Homework 8 - Models" />
       <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Classwork" />
       <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Data Project\Classwork" />
       <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Homework 4 - Loops" />
-      <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\Homework 3 - Conditional Statements" />
-      <recent name="C:\Users\jtmwo\Documents\School\CS\Programs\asoidlkasd" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -330,8 +328,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Plotting">
-    <configuration name="Analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Psuedocode">
+    <configuration name="Hopetopia" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,11 +337,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 8 - Models" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Project/Analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 8 - Models/Hopetopia.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,7 +350,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Parsing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Mixing Milk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,11 +358,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/USA Olympiad/Mixing Milk" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Project/Parsing.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\jtmwo\Documents\School\CS\Programs\USA Olympiad\Mixing Milk\Mixing_Milk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +371,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Plotting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Psuedocode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,11 +379,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pseudocode" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Project/Plotting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pseudocode/Psuedocode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,7 +413,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -423,11 +421,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Project/Test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/Test1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -436,7 +434,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="The_Bucket_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -444,11 +442,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/USA Olympiad/The Bucket List" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data Project/Test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/USA Olympiad/The Bucket List/The_Bucket_List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -461,19 +459,20 @@
       <item itemvalue="Python.Conditional Statements" />
       <item itemvalue="Python.Nested Loops Pygame" />
       <item itemvalue="Python.Purplay Run (1)" />
-      <item itemvalue="Python.Parsing" />
-      <item itemvalue="Python.Analysis" />
-      <item itemvalue="Python.Test1" />
-      <item itemvalue="Python.Plotting" />
-      <item itemvalue="Python.Test2" />
+      <item itemvalue="Python.Tribbles" />
+      <item itemvalue="Python.Test1 (1)" />
+      <item itemvalue="Python.Hopetopia" />
+      <item itemvalue="Python.Psuedocode" />
+      <item itemvalue="Python.Mixing Milk" />
+      <item itemvalue="Python.The_Bucket_List" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Plotting" />
-        <item itemvalue="Python.Test2" />
-        <item itemvalue="Python.Analysis" />
-        <item itemvalue="Python.Test1" />
-        <item itemvalue="Python.Parsing" />
+        <item itemvalue="Python.Psuedocode" />
+        <item itemvalue="Python.The_Bucket_List" />
+        <item itemvalue="Python.Mixing Milk" />
+        <item itemvalue="Python.Test1 (1)" />
+        <item itemvalue="Python.Hopetopia" />
       </list>
     </recent_temporary>
   </component>
@@ -500,15 +499,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-8" y="-8" width="1552" height="880" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1784534" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17821783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15147454" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15127176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -522,12 +521,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1784534" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17821783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15147454" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15127176" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -556,47 +555,8 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Scratch/Warmup Operators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Comparisons" />
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Operations.py" />
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Comparisons.py" />
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Quadratic Formula.py" />
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Logic Gates.py" />
-    <entry file="file://$PROJECT_DIR$/Scratch/Warmup Variables and Built in Functions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scratch/Warmup Functions 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Functions 1 HW.py" />
-    <entry file="file://$USER_HOME$/Downloads/Realm (T).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="927" column="12" lean-forward="true" selection-start-line="927" selection-start-column="12" selection-end-line="927" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Realm (T).py" />
     <entry file="file://$PROJECT_DIR$/Classwork/Loops Classwork.py" />
     <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -637,13 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classwork/Loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -699,27 +652,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classwork/Lists2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Test2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Test1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/data.txt">
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="519" selection-start-line="14" selection-start-column="519" selection-end-line="14" selection-end-column="519" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/Anime.txt">
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/Anime.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="196" selection-start-line="196" selection-end-line="196" />
@@ -733,7 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/Random Text.py">
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/Random Text.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
@@ -762,19 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Classwork/Sorting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="24" lean-forward="true" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <marker date="1543191562256" expanded="true" signature="469:478" ph="..." />
-            <marker date="1543191562256" expanded="true" signature="1177:1182" ph="..." />
-            <marker date="1543191562256" expanded="true" signature="1768:1773" ph="..." />
-            <marker date="1543191562256" expanded="true" signature="1768:1800" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Classwork/Searching.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -782,64 +709,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/movies.txt">
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/movies.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="36" selection-start-column="36" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/Parsing.py">
+    <entry file="file://$PROJECT_DIR$/Classwork/Loops.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="566">
+          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/movie.tsv">
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/movie.tsv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="98" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/Test1.py">
+    <entry file="file://$PROJECT_DIR$/Pseudocode.py" />
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/Plotting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="31" />
+        <state relative-caret-position="612">
+          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/Analysis.py">
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/Analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="935">
+          <caret line="57" column="36" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/Test2.py">
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classwork/Sorting2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/Test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data Project/Plotting.py">
+    <entry file="file://$PROJECT_DIR$/Classwork/Sorting1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="442">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classwork/meh" />
+    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/Hopetopia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/Tribbles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USA Olympiad/Mixing Milk/mixmilk.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USA Olympiad/Mixing Milk/mixmilk.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USA Olympiad/The Bucket List/The_Bucket_List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USA Olympiad/The Bucket List/blist.in">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USA Olympiad/Mixing Milk/Mixing_Milk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 7 - Data Project/Parsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classwork/Lists2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pseudocode/Psuedocode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
         </state>
       </provider>
     </entry>

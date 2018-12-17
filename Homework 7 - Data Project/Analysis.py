@@ -12,7 +12,7 @@ with open('byyear.pickle','rb') as f:
     actressdict=pickle.load(f)
 
 with open('byyear.pickle','rb') as f:
-    directordict=pickle.load(f)
+    directordict=pickle     .load(f)
     
 # print('Year :',yeardict)
 # print('Actor :',actordict)
