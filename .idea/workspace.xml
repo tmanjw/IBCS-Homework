@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b212a342-23a9-4a70-9e24-eb9aef5059b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Tribbles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Sorting2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Plotting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/Hopetopia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/Tribbles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pseudocode/Psuedocode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/USA Olympiad/Mixing Milk/Mixing_Milk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/USA Olympiad/Mixing Milk/mixmilk.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/USA Olympiad/The Bucket List/The_Bucket_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/USA Olympiad/The Bucket List/blist.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/Gridworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/GridworldFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 8 - Models/SIR Model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/Sorting1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Analysis.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Anime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Anime.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Parsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Parsing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Plotting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Random Text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Random Text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Test1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/Test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/Test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/byacress.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/byacress.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/byactor.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/byactor.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/bydirector.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/bydirector.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/byyear.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/byyear.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/movie.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/movie.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Project/movies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 7 - Data Project/movies.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/Test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/Test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Test2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +18,7 @@
     <session id="576670148">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="54" />
+          <entry key="project.closed" value="59" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="5" />
@@ -51,13 +26,13 @@
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="9" />
-          <entry key="project.open.time.8" value="11" />
+          <entry key="project.open.time.7" value="11" />
+          <entry key="project.open.time.8" value="13" />
           <entry key="project.open.time.9" value="9" />
-          <entry key="project.opened" value="55" />
+          <entry key="project.opened" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -66,7 +41,7 @@
           <entry key="in" value="2" />
           <entry key="meh" value="1" />
           <entry key="out" value="1" />
-          <entry key="py" value="100" />
+          <entry key="py" value="106" />
           <entry key="tsv" value="1" />
           <entry key="txt" value="4" />
         </counts>
@@ -74,42 +49,33 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="102" />
+          <entry key="Python" value="108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="80" />
+          <entry key="dummy" value="113" />
           <entry key="in" value="60" />
           <entry key="meh" value="1205" />
-          <entry key="py" value="65877" />
+          <entry key="py" value="67436" />
           <entry key="txt" value="577" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1922" />
-          <entry key="Python" value="65877" />
+          <entry key="PLAIN_TEXT" value="1955" />
+          <entry key="Python" value="67436" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pseudocode/Psuedocode.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/Test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="23">
+              <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -118,7 +84,43 @@
         <entry file="file://$PROJECT_DIR$/Tests/Test2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 8 - Models/SIR Model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 8 - Models/GridworldFunctions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="90" column="52" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework 8 - Models/Gridworld.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -194,10 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/asoidlkasd/Loops.py" />
-        <option value="$PROJECT_DIR$/Homework 3 - Conditional Statements/Negative8Ball.py" />
-        <option value="$PROJECT_DIR$/Homework 3 - Conditional Statements/Conditional Statements.py" />
-        <option value="$PROJECT_DIR$/Others/Validation.py" />
         <option value="$PROJECT_DIR$/Homework 4 - Loops/Basic Loops.py" />
         <option value="$PROJECT_DIR$/Others/Pygame Pointers.py" />
         <option value="$PROJECT_DIR$/Homework 4 - Loops/Nested Loops.py" />
@@ -243,16 +241,19 @@
         <option value="$PROJECT_DIR$/USA Olympiad/Mixing Milk/Mixing_Milk.py" />
         <option value="$PROJECT_DIR$/USA Olympiad/The Bucket List/blist.in" />
         <option value="$PROJECT_DIR$/USA Olympiad/The Bucket List/The_Bucket_List.py" />
-        <option value="$PROJECT_DIR$/Tests/Test1.py" />
         <option value="$PROJECT_DIR$/Pseudocode/Psuedocode.py" />
+        <option value="$PROJECT_DIR$/Tests/Test1.py" />
+        <option value="$PROJECT_DIR$/Homework 8 - Models/SIR Model.py" />
+        <option value="$PROJECT_DIR$/Homework 8 - Models/GridWorld.py" />
+        <option value="$PROJECT_DIR$/Homework 8 - Models/GridworldFunctions.py" />
+        <option value="$PROJECT_DIR$/Homework 8 - Models/Gridworld.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
+    <option name="width" value="980" />
+    <option name="height" value="1090" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -277,23 +278,17 @@
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 8 - Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Programs" type="462c0819:PsiDirectoryNode" />
               <item name="Pseudocode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Programs" type="462c0819:PsiDirectoryNode" />
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="USA Olympiad" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="USA Olympiad" type="462c0819:PsiDirectoryNode" />
-              <item name="The Bucket List" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,7 +323,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Psuedocode">
+  <component name="RunManager" selected="Python.Gridworld">
+    <configuration name="GridWorld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 8 - Models" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\jtmwo\Documents\School\CS\Programs\Homework 8 - Models\GridworldFunctions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Gridworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 8 - Models" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 8 - Models/Gridworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Hopetopia" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,48 +379,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 8 - Models/Hopetopia.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Mixing Milk" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/USA Olympiad/Mixing Milk" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jtmwo\Documents\School\CS\Programs\USA Olympiad\Mixing Milk\Mixing_Milk.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Psuedocode" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pseudocode" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pseudocode/Psuedocode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,6 +408,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SIR Model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 8 - Models" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 8 - Models/SIR Model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -434,45 +450,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The_Bucket_List" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\jtmwo\AppData\Local\Programs\Python\Python37-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/USA Olympiad/The Bucket List" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/USA Olympiad/The Bucket List/The_Bucket_List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
       <item itemvalue="Python.Conditional Statements" />
       <item itemvalue="Python.Nested Loops Pygame" />
       <item itemvalue="Python.Purplay Run (1)" />
       <item itemvalue="Python.Tribbles" />
       <item itemvalue="Python.Test1 (1)" />
+      <item itemvalue="Python.SIR Model" />
       <item itemvalue="Python.Hopetopia" />
-      <item itemvalue="Python.Psuedocode" />
-      <item itemvalue="Python.Mixing Milk" />
-      <item itemvalue="Python.The_Bucket_List" />
+      <item itemvalue="Python.GridWorld" />
+      <item itemvalue="Python.Gridworld" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Psuedocode" />
-        <item itemvalue="Python.The_Bucket_List" />
-        <item itemvalue="Python.Mixing Milk" />
-        <item itemvalue="Python.Test1 (1)" />
+        <item itemvalue="Python.Gridworld" />
+        <item itemvalue="Python.GridWorld" />
+        <item itemvalue="Python.SIR Model" />
         <item itemvalue="Python.Hopetopia" />
+        <item itemvalue="Python.Test1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -499,15 +494,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1552" height="880" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17821783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1784534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15127176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35838926" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -520,25 +515,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17821783" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15127176" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39812332" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3297587" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -555,9 +531,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homewrok 1 - Operation/Functions 1 HW.py" />
-    <entry file="file://$USER_HOME$/Downloads/Realm (T).py" />
-    <entry file="file://$PROJECT_DIR$/Classwork/Loops Classwork.py" />
     <entry file="file://$PROJECT_DIR$/Homework 2 - Functions/Functions 2 HW.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -774,20 +747,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Classwork/meh" />
-    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/Hopetopia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/Tribbles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/USA Olympiad/Mixing Milk/mixmilk.out">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -837,24 +796,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Test2.py">
+    <entry file="file://$PROJECT_DIR$/Pseudocode/Psuedocode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="189">
+          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/Test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="23">
+          <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pseudocode/Psuedocode.py">
+    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/Tribbles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="782">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/Hopetopia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/SIR Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/GridworldFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="90" column="52" selection-start-line="90" selection-start-column="52" selection-end-line="90" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 8 - Models/Gridworld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
