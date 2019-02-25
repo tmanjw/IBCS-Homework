@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="AddTable">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>260</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add Table</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="RemoveTable">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>300</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Remove Table</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="AddRow">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>369</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add Row</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="DeleteRow">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>409</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Delete Row</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="RowEntry">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>337</y>
+      <width>210</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="TableInput">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>230</y>
+      <width>210</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QListView" name="ListViews">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>11</y>
+      <width>210</width>
+      <height>209</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QTableWidget" name="TableWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>551</width>
+      <height>521</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

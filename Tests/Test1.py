@@ -1,2 +1,4 @@
-months={'Feb': [[1,2,3], [4,5,6], [7,8,9]]}
-print(months['Feb'][0][1])
+import random
+
+for i in range(10):
+    print(random.triangular(1,10,5))

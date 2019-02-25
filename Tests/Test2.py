@@ -1,8 +1,3 @@
-if capacity[step] > buckets[0]:
-    var1 = buckets[0]
-elif capacity[0] == buckets[0]:
-    var1 = 0
-else:
-    var1 = capacity[step]
-capacity[0] += var1
-capacity[step] -= var1
+lst=[i for i in range(0,8)]
+for i in range(len(lst)):
+    print(i if lst[i]%2==0 else 'No')
